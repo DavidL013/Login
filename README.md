@@ -4,7 +4,8 @@ Página de login moderna desenvolvida com HTML, CSS e JavaScript puro.
 
 ## 🎨 Visual
 
-![Login Page](img/preview.png)
+<img width="1365" height="645" alt="Login" src="https://github.com/user-attachments/assets/e09fb5e3-cd3a-4dc6-8f90-a3de1b4d5fc8" />
+
 
 ## Tecnologias
 - HTML5
