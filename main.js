@@ -9,6 +9,6 @@ form.addEventListener('submit', function(e) {
     if(email.value === 'admin@email.com' && senha.value === '1234') {
         alert('Login bem-sucedido!');
     } else {
-        alert('Email ou senha incorretos!');
+        alert('Email ou Senha Incorretos!');
     }
 })
